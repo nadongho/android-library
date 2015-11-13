@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLibrary</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+</resources>
